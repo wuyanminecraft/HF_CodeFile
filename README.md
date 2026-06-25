@@ -4,7 +4,7 @@ An interactive **Streamlit** web application that solves the **Hartree–Fock (H
 
 This code is released as open-source supplementary material accompanying our paper, to ensure reproducibility of the reported results.
 
-The implementation covers atomic numbers **Z = 1 – 30** (H through Zn), restricted to the 1s, 2s, and 2p shells.
+The implementation covers atomic numbers **Z = 1 – 9** (H through Ne), restricted to the 1s, 2s, and 2p shells.
 
 ---
 
